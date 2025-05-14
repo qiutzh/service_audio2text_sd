@@ -1,0 +1,332 @@
+{
+  "2speakers_example_0.08_1.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 0.08,
+    "stop": 1.58
+  },
+  "2speakers_example_0.83_2.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 0.83,
+    "stop": 2.33
+  },
+  "2speakers_example_1.58_3.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 1.58,
+    "stop": 3.08
+  },
+  "2speakers_example_2.33_3.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 2.33,
+    "stop": 3.83
+  },
+  "2speakers_example_3.08_4.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 3.08,
+    "stop": 4.58
+  },
+  "2speakers_example_3.83_5.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 3.83,
+    "stop": 5.33
+  },
+  "2speakers_example_4.58_6.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 4.58,
+    "stop": 6.08
+  },
+  "2speakers_example_5.33_6.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 5.33,
+    "stop": 6.83
+  },
+  "2speakers_example_6.08_7.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 6.08,
+    "stop": 7.58
+  },
+  "2speakers_example_6.83_8.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 6.83,
+    "stop": 8.33
+  },
+  "2speakers_example_7.58_9.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 7.58,
+    "stop": 9.08
+  },
+  "2speakers_example_8.33_9.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 8.33,
+    "stop": 9.83
+  },
+  "2speakers_example_9.08_10.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 9.08,
+    "stop": 10.58
+  },
+  "2speakers_example_9.83_11.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 9.83,
+    "stop": 11.33
+  },
+  "2speakers_example_10.58_12.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 10.58,
+    "stop": 12.08
+  },
+  "2speakers_example_11.33_12.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 11.33,
+    "stop": 12.83
+  },
+  "2speakers_example_12.08_13.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 12.08,
+    "stop": 13.58
+  },
+  "2speakers_example_12.83_14.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 12.83,
+    "stop": 14.33
+  },
+  "2speakers_example_13.58_15.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 13.58,
+    "stop": 15.08
+  },
+  "2speakers_example_14.33_15.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 14.33,
+    "stop": 15.83
+  },
+  "2speakers_example_15.08_16.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 15.08,
+    "stop": 16.58
+  },
+  "2speakers_example_15.83_17.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 15.83,
+    "stop": 17.33
+  },
+  "2speakers_example_16.58_18.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 16.58,
+    "stop": 18.08
+  },
+  "2speakers_example_17.33_18.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 17.33,
+    "stop": 18.83
+  },
+  "2speakers_example_18.08_19.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 18.08,
+    "stop": 19.58
+  },
+  "2speakers_example_18.83_20.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 18.83,
+    "stop": 20.33
+  },
+  "2speakers_example_19.58_21.08": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 19.58,
+    "stop": 21.08
+  },
+  "2speakers_example_20.33_21.83": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 20.33,
+    "stop": 21.83
+  },
+  "2speakers_example_21.08_22.58": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 21.08,
+    "stop": 22.58
+  },
+  "2speakers_example_21.83_23.33": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 21.83,
+    "stop": 23.33
+  },
+  "2speakers_example_22.58_23.84": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 22.58,
+    "stop": 23.84
+  },
+  "2speakers_example_24.12_25.62": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 24.12,
+    "stop": 25.62
+  },
+  "2speakers_example_24.87_26.37": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 24.87,
+    "stop": 26.37
+  },
+  "2speakers_example_25.62_27.12": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 25.62,
+    "stop": 27.12
+  },
+  "2speakers_example_26.37_27.87": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 26.37,
+    "stop": 27.87
+  },
+  "2speakers_example_27.12_28.62": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 27.12,
+    "stop": 28.62
+  },
+  "2speakers_example_27.87_29.37": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 27.87,
+    "stop": 29.37
+  },
+  "2speakers_example_28.62_30.12": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 28.62,
+    "stop": 30.12
+  },
+  "2speakers_example_29.37_30.87": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 29.37,
+    "stop": 30.87
+  },
+  "2speakers_example_30.12_31.62": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 30.12,
+    "stop": 31.62
+  },
+  "2speakers_example_30.87_32.19": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 30.87,
+    "stop": 32.19
+  },
+  "2speakers_example_32.47_33.97": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 32.47,
+    "stop": 33.97
+  },
+  "2speakers_example_33.22_34.72": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 33.22,
+    "stop": 34.72
+  },
+  "2speakers_example_33.97_35.47": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 33.97,
+    "stop": 35.47
+  },
+  "2speakers_example_34.72_36.22": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 34.72,
+    "stop": 36.22
+  },
+  "2speakers_example_35.47_36.97": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 35.47,
+    "stop": 36.97
+  },
+  "2speakers_example_36.22_37.72": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 36.22,
+    "stop": 37.72
+  },
+  "2speakers_example_36.97_38.47": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 36.97,
+    "stop": 38.47
+  },
+  "2speakers_example_37.72_39.22": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 37.72,
+    "stop": 39.22
+  },
+  "2speakers_example_38.47_39.97": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 38.47,
+    "stop": 39.97
+  },
+  "2speakers_example_39.22_40.72": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 39.22,
+    "stop": 40.72
+  },
+  "2speakers_example_39.97_41.47": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 39.97,
+    "stop": 41.47
+  },
+  "2speakers_example_40.72_42.22": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 40.72,
+    "stop": 42.22
+  },
+  "2speakers_example_41.47_42.97": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 41.47,
+    "stop": 42.97
+  },
+  "2speakers_example_42.22_43.72": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 42.22,
+    "stop": 43.72
+  },
+  "2speakers_example_42.97_44.47": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 42.97,
+    "stop": 44.47
+  },
+  "2speakers_example_43.72_45.22": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 43.72,
+    "stop": 45.22
+  },
+  "2speakers_example_44.47_45.97": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 44.47,
+    "stop": 45.97
+  },
+  "2speakers_example_45.22_46.72": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 45.22,
+    "stop": 46.72
+  },
+  "2speakers_example_45.97_47.47": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 45.97,
+    "stop": 47.47
+  },
+  "2speakers_example_46.72_48.22": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 46.72,
+    "stop": 48.22
+  },
+  "2speakers_example_47.47_48.97": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 47.47,
+    "stop": 48.97
+  },
+  "2speakers_example_48.22_49.72": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 48.22,
+    "stop": 49.72
+  },
+  "2speakers_example_48.97_50.47": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 48.97,
+    "stop": 50.47
+  },
+  "2speakers_example_49.72_51.22": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 49.72,
+    "stop": 51.22
+  },
+  "2speakers_example_50.47_51.64": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 50.47,
+    "stop": 51.64
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "2speakers_example_0.08_23.84": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 0.08,
+    "stop": 23.84
+  },
+  "2speakers_example_24.12_32.19": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 24.12,
+    "stop": 32.19
+  },
+  "2speakers_example_32.47_51.64": {
+    "file": "/home/rise/qiutzh/service-audio2text-sd/data/examples/2speakers_example.wav",
+    "start": 32.47,
+    "stop": 51.64
+  }
+}
