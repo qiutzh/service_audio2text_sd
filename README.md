@@ -2,21 +2,14 @@
 
 - [Paraformer-large热词版模型](https://modelscope.cn/models/iic/speech_seaco_paraformer_large_asr_nat-zh-cn-16k-common-vocab8404-pytorch/summary)
 
-### 工作进展20250428
+### TODO
 
 1）说话者分离
   a.paraformer普通版和热词版，说话者分离对比试验；
     怎么新增热词，同音不同字热词怎么添加权重；
-  b.sensevoice说话者分离cpu版本，验证效果；
-    gpu版本进行中（有个技术难点待解决）
-c.
 
 2）微调
 调研结果：有开发者做过测试，sensevoice比paraformer-large准确度高2%左右（88%->90%）
-1）sensevoice微调（下一步工作重心）
-  a.标注样本格式，准备一小批微调样本；
-  b.打通sensevoice微调流程；
-  c.找到一个有效的语音标注工具；
 
 **参考**
 - [微调数据格式](https://github.com/modelscope/FunASR/tree/main/data/list)
